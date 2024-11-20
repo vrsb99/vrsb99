@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Javascript & Python
 - 🤔 I’m looking for Software Development Internships
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vignesh-raja-s-60410a1b4/)](https://www.linkedin.com/in/vignesh-raja-s-60410a1b4/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vigneshrsb99@gmail.com)](mailto:vigneshrsb99@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vrsb/)](https://www.linkedin.com/in/vrsb/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vsureshb@andrew.cmu.edu)](mailto:vsureshb@andrew.cmu.edu)
 
 ## My Experience 🌟
 
